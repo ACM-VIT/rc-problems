@@ -1,3 +1,0 @@
-First line contains an integer T (between 1 and 500) which stands for the number of testcases.
-The next T lines contain the details for each testcase.
-Each line contains an integer of length between 5 to 10.
