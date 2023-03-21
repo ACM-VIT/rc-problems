@@ -1,0 +1,6 @@
+The idea is that you will get a string of length 5 and it will be a hex (not told to the user)
+    And the output will be a parity bit 
+        the parity idea is to make it a multiple of 16
+            or
+        the parity is decided by converting it into binary and then finding the parity bit the standard way
+    And the objective is to 
